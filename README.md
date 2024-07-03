@@ -7,3 +7,4 @@ Face Mask Detector using SSD_MobileNet and Opencv
 1- First Train the model (optional) or use the pre-trained model
 
 2- to execute run >> python detect_mask_video.py
+https://github.com/connectaman/Face-Mask-Detector.git
