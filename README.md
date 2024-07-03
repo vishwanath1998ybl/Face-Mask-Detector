@@ -8,3 +8,5 @@ Face Mask Detector using SSD_MobileNet and Opencv
 
 2- to execute run >> python detect_mask_video.py
 https://github.com/connectaman/Face-Mask-Detector.git
+*******************************************************************************************************************************************************************************************
+machine-learning deep-learning face-detection aritificial-intelligence face-mask-detector
